@@ -5,7 +5,7 @@ Welcome to my resume repository! Below, you'll find links to different versions 
 ## Resume Versions
 
 - [PDF Version](Deepanraj_resume.pdf)
-- [Latex Version](resume.tex)
+- [Latex Version](Latex/myResume.tex)
 
 
 
