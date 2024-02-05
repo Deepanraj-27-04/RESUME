@@ -1,4 +1,4 @@
-# Resume 
+ # Resume 
 
 Welcome to my resume repository! Below, you'll find links to different versions of my resume in various formats.
 
